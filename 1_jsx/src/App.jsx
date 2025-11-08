@@ -12,7 +12,8 @@ let name="Sanket yadav";
       <h3>{name}</h3>
       <h3>{car_obj.name}</h3>
 
-      <h3>Hello</h3> 
+      <h3>Hello sanket  </h3> 
+    <h3>ajay jadhav</h3>
       <h5>{34 +3 }</h5>   
       </div>
     </>
